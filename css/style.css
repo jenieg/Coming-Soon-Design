@@ -10,6 +10,7 @@ body {
 main {
      display: flex;
      justify-content: space-between;
+     height: 800px;
      background: linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
 }
 
