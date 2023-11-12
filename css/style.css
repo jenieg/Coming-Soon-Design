@@ -10,14 +10,16 @@ body {
 main {
      display: flex;
      justify-content: space-between;
-     background-image: url("../images/bg-pattern-desktop.svg");
-     background-repeat: no-repeat;
-     background-size: cover;
+     background: linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
 }
+
 
 .infoSubmit {
      width: 60%;
      height: 800px;
+     background-image: url("../images/bg-pattern-desktop.svg");
+     background-repeat: no-repeat;
+     background-size: cover;
 }
 
 .hero {
