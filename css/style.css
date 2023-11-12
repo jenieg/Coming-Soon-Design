@@ -1,0 +1,23 @@
+
+* {
+     box-sizing: border-box;
+}
+
+body {
+     font-family: 'Josefin Sans', sans-serif;
+}
+
+main {
+     display: flex;
+     justify-content: space-between;
+}
+
+.infoSubmit {
+     width: 60%;
+     height: 800px;
+     background-image: url("../images/bg-pattern-desktop.svg");
+}
+
+.hero {
+     width: 40%;
+}
