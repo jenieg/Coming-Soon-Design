@@ -10,12 +10,14 @@ body {
 main {
      display: flex;
      justify-content: space-between;
+     background-image: url("../images/bg-pattern-desktop.svg");
+     background-repeat: no-repeat;
+     background-size: cover;
 }
 
 .infoSubmit {
      width: 60%;
      height: 800px;
-     background-image: url("../images/bg-pattern-desktop.svg");
 }
 
 .hero {
