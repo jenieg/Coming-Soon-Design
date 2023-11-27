@@ -21,7 +21,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 - [GitHub Repository](https://github.com/jenieg/Coming-Soon-Design)
-- [Live Site]()
+- [Live Site](https://jenieg.github.io/Coming-Soon-Design/)
 
 # My Process
 
