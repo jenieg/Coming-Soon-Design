@@ -31,7 +31,7 @@
 
 ### What I learned
 
-  Crafting a 'coming soon' webpage using HTML, CSS, JavaScript, and an interactive email form was a cool learning experience! HTML helped me organize content, CSS jazzed it up, and JavaScript made things interactive and fun. Building the email form taught me tons about user input and validation.
+  Crafted a 'coming soon' webpage using HTML, CSS, JavaScript, and an interactive email form was a cool learning experience! HTML helped me organize content, CSS jazzed it up, and JavaScript made things interactive and fun. Building the email form taught me tons about user input and validation.
 
 It showed me how these tech pieces fit together, making the page look good and work smoothly. I got a solid grip on front-end development with this challenge
 
